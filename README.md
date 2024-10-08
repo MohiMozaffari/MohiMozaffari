@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! I'm Mohaddeseh Mozaffari
 
-<!--
-**MohiMozaffari/MohiMozaffari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a passionate **Python instructor**, **AI enthusiast**, and **complex systems** master's student. My journey is all about unraveling the beauty of technology and sharing it with the world through teaching and creating.
 
-Here are some ideas to get you started:
+## 👨‍🏫 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a diverse background in teaching and development, with a strong focus on **Python**, **machine learning**, and **game development**. I’ve been fortunate enough to share my knowledge at:
+
+- 🏫 **Ostadbak**: Teaching Python OOP, machine learning, AI, and building mini projects.
+- 🖥️ **Picha**: Educating on Python fundamentals, algorithms, object-oriented programming, Tkinter development, and game development.
+
+## 🔍 What You'll Find Here
+
+- 📚 **Python Projects**: From basic to advanced projects, covering a wide range of topics.
+- 🤖 **AI/ML Models**: Implementations of machine learning models and AI experiments, focusing on practical applications.
+- 🎮 **Games**: Fun Python-based games showcasing algorithms and creative coding.
+- 🛠️ **Tkinter Applications**
+
