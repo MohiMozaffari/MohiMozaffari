@@ -12,7 +12,6 @@ I have a diverse background in teaching and development, with a strong focus on 
 ## 🔍 What You'll Find Here
 
 - 📚 **Python Projects**: From basic to advanced projects, covering a wide range of topics.
-- 🤖 **AI/ML Models**: Implementations of machine learning models and AI experiments, focusing on practical applications.
 - 🎮 **Games**: Fun Python-based games showcasing algorithms and creative coding.
-- 🛠️ **Tkinter Applications**
+
 
