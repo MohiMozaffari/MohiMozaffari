@@ -97,8 +97,10 @@ Alongside research, I develop open-source scientific software and teach Python t
     <td>Agent-based simulation of coevolutionary dynamics in complex systems.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/MohiMozaffari/2D_Ising_Simulation_CPP"><b>2D Ising Simulation (C++)</b></a></td>
-    <td>C++/notebook implementation of the 2D Ising model for statistical mechanics.</td>
+
+  <tr>
+    <td><a href="https://github.com/MohiMozaffari/Sarcasm_Detection"><b>Sarcasm Detection</b></a></td>
+    <td>In-progress NLP pipeline for context-aware sarcasm detection (DeBERTa + LoRA + FAISS retrieval).</td>
   </tr>
   <tr>
     <td><a href="https://github.com/MohiMozaffari/english-toefl-speaking-coach"><b>TOEFL Speaking Coach</b></td>
