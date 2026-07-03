@@ -1,8 +1,6 @@
-# Mohaddeseh Mozaffari
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F17,100:111827&height=240&text=Mohaddeseh%20Mozaffari&fontSize=42&fontColor=7C5CFF" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F17,100:111827&height=140&text=Mohaddeseh%20Mozaffari&fontSize=42&fontColor=7C5CFF" />
 
 </div>
 
