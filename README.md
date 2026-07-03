@@ -7,17 +7,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1000&color=BD93F9&center=true&vCenter=true&width=850&lines=Computational+Neuroscience+%7C+Brain+Network+Analysis;Topological+Data+Analysis+%26+Interpretable+ML;Open-Source+Developer+%7C+Python+Instructor;PhD+Applicant+2026" />
 
 <br>
-
-<img src="https://img.shields.io/badge/M.Sc.-Statistical_Physics_&_Complex_Systems-BD93F9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Research-Computational_Neuroscience-FF79C6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open_to-PhD_Positions-50FA7B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-Developer-8BE9FD?style=for-the-badge&logo=python&logoColor=black" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=MohiMozaffari&style=flat-square&color=BD93F9&labelColor=060D08&label=Profile+Views" alt="views" />
+<img src="https://img.shields.io/github/followers/MohiMozaffari?style=flat-square&color=BD93F9&labelColor=555555&logo=github&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/MohiMozaffari?style=flat-square&color=BD93F9&labelColor=555555&logo=github&label=Stars" alt="stars" />
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
 I'm a researcher working at the intersection of **computational neuroscience**, **topological data analysis**, and **machine learning**. My background is in Statistical Physics and Complex Systems (M.Sc., Shahid Beheshti University), and my current work focuses on analyzing brain network topology using persistent homology.
 
@@ -25,7 +27,7 @@ Alongside research, I develop open-source scientific software and teach Python t
 
 ---
 
-## Research & Publications
+# Research & Publications
 
 <div align="center">
 
@@ -40,7 +42,7 @@ Alongside research, I develop open-source scientific software and teach Python t
 
 ---
 
-## Research Interests
+# Research Interests
 
 <div align="center">
 
@@ -75,7 +77,7 @@ Alongside research, I develop open-source scientific software and teach Python t
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 <div align="center">
 
@@ -112,7 +114,7 @@ Alongside research, I develop open-source scientific software and teach Python t
 
 ---
 
-## Education
+# Education
 
 **M.Sc. — Statistical Physics & Complex Systems**
 
@@ -126,7 +128,7 @@ Shahid Beheshti University (2018–2022) · Ranked 1st · GPA 17.30/20
 
 ---
 
-## Teaching Experience
+# Teaching Experience
 
 **Python Instructor**
 
@@ -134,7 +136,7 @@ Teaching Python from beginner to advanced through project-based courses, designi
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,bash,git,linux,vscode"/>
@@ -146,13 +148,17 @@ Teaching Python from beginner to advanced through project-based courses, designi
 
 <div align="center">
 
-NetworkX · LaTeX · NumPy · Pandas · SciPy · Nilearn · Obsidian
+<img src="https://img.shields.io/badge/NetworkX-BD93F9?style=for-the-badge&labelColor=060D08" />
+<img src="https://img.shields.io/badge/Nilearn-BD93F9?style=for-the-badge&labelColor=060D08" />
+<img src="https://img.shields.io/badge/SciPy-BD93F9?style=for-the-badge&logo=scipy&logoColor=white&labelColor=060D08" />
+<img src="https://img.shields.io/badge/LaTeX-BD93F9?style=for-the-badge&logo=latex&logoColor=white&labelColor=060D08" />
+<img src="https://img.shields.io/badge/Obsidian-BD93F9?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=060D08" />
 
 </div>
 
 ---
 
-## Current Focus
+# Current Focus
 
 ```yaml
 research:
@@ -171,7 +177,7 @@ open_to:
 
 ---
 
-## GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -191,7 +197,7 @@ open_to:
 
 ---
 
-## Connect
+# Connect
 
 <p align="center">
 
