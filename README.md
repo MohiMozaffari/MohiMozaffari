@@ -26,9 +26,9 @@ My research focuses on **brain network analysis**, **Topological Data Analysis (
 Alongside research, I enjoy developing open-source scientific software, teaching Python through project-based learning, and building educational AI applications.
 
 ---
-<div align="center">
+# 🔬 Research Interests
 
-## 🔬 Research Interests
+<div align="center">
 
 <table>
   <tr>
