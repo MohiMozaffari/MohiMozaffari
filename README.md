@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1000&color=BD93F9&center=true&vCenter=true&width=850&lines=AI+%26+Computational+Neuroscience+Researcher;Building+Interpretable+Machine+Learning+Models;Brain+Network+Analysis+%7C+Topological+Data+Analysis;Open-Source+Developer+%7C+Python+Instructor;Future+PhD+Researcher" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1000&color=BD93F9&center=true&vCenter=true&width=850&lines=Computational+Neuroscience+%7C+Brain+Network+Analysis;Topological+Data+Analysis+%26+Interpretable+ML;Open-Source+Developer+%7C+Python+Instructor;PhD+Applicant+2026" />
 
 <br>
 
@@ -17,42 +17,56 @@
 
 ---
 
-# 👋 About Me
+## About Me
 
-I'm an **AI & Computational Neuroscience researcher** with a background in **Statistical Physics and Complex Systems**.
+I'm a researcher working at the intersection of **computational neuroscience**, **topological data analysis**, and **machine learning**. My background is in Statistical Physics and Complex Systems (M.Sc., Shahid Beheshti University), and my current work focuses on analyzing brain network topology using persistent homology.
 
-My research focuses on **brain network analysis**, **Topological Data Analysis (TDA)**, **interpretable machine learning**, and **complex systems modeling** for neuroscience.
-
-Alongside research, I enjoy developing open-source scientific software, teaching Python through project-based learning, and building educational AI applications.
+Alongside research, I develop open-source scientific software and teach Python through project-based courses.
 
 ---
-# 🔬 Research Interests
+
+## Research & Publications
+
+<div align="center">
+
+| Type | Title | Status |
+|---|---|---|
+| Journal manuscript | *Persistent Homology Reveals Topological Alterations in Resting-State Brain Networks of Autism Spectrum Disorder* — Network Neuroscience | Under review (NETNEURO-26-0075) |
+| Preprint | Coronary artery segmentation in X-ray angiography — [arXiv:2601.17429](https://arxiv.org/abs/2601.17429) | Jan 2026 |
+| Software | [NeuroPHorm](https://github.com/MohiMozaffari/NeuroPHorm) — Python toolkit for topological brain network analysis | DOI: [10.5281/zenodo.17542598](https://doi.org/10.5281/zenodo.17542598) |
+| M.Sc. Thesis | *Analysis of Topological Features of Brain Networks in Autism Spectrum Disorder Using Persistent Homology* | Outstanding, defended Mar 2025 |
+
+</div>
+
+---
+
+## Research Interests
 
 <div align="center">
 
 <table>
   <tr>
-    <th>🔬 Area</th>
-    <th>💡 Topics</th>
+    <th>Area</th>
+    <th>Topics</th>
   </tr>
   <tr>
-    <td>🧠 Computational Neuroscience</td>
+    <td>Computational Neuroscience</td>
     <td>Brain Connectivity • fMRI • Network Science</td>
   </tr>
   <tr>
-    <td>🤖 Machine Learning</td>
+    <td>Machine Learning</td>
     <td>Explainable AI • Deep Learning • Pattern Recognition</td>
   </tr>
   <tr>
-    <td>🧩 Topological Data Analysis</td>
+    <td>Topological Data Analysis</td>
     <td>Persistent Homology • Graph Topology</td>
   </tr>
   <tr>
-    <td>🌐 Complex Systems</td>
+    <td>Complex Systems</td>
     <td>Statistical Physics • Dynamical Networks</td>
   </tr>
   <tr>
-    <td>📊 Scientific Computing</td>
+    <td>Scientific Computing</td>
     <td>Python • Network Analysis • Data Science</td>
   </tr>
 </table>
@@ -61,137 +75,101 @@ Alongside research, I enjoy developing open-source scientific software, teaching
 
 ---
 
-# 💻 Tech Stack
+## Featured Projects
 
-### 🐍 Programming
+<div align="center">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MohiMozaffari/NeuroPHorm"><b>NeuroPHorm</b></a></td>
+    <td>Python toolkit for brain network analysis using persistent homology. Archived with a Zenodo DOI for citation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MohiMozaffari/Computational-Physics"><b>Computational Physics</b></a></td>
+    <td>Notebooks covering core computational physics methods and simulations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MohiMozaffari/Coevolutionary-Simulation"><b>Coevolutionary Simulation</b></a></td>
+    <td>Agent-based simulation of coevolutionary dynamics in complex systems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MohiMozaffari/2D_Ising_Simulation_CPP"><b>2D Ising Simulation (C++)</b></a></td>
+    <td>C++/notebook implementation of the 2D Ising model for statistical mechanics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MohiMozaffari/english-toefl-speaking-coach"><b>TOEFL Speaking Coach</b></td>
+    <td>In-progress LLM-based speaking practice tool for English test preparation.</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Education
+
+**M.Sc. — Statistical Physics & Complex Systems**
+
+Shahid Beheshti University (2022–2025) · Ranked 2nd · GPA 18.5/20
+
+Thesis: *Topological Analysis of Brain Networks in Autism Spectrum Disorder using Persistent Homology* — Outstanding
+
+**B.Sc. — Physics**
+
+Shahid Beheshti University (2018–2022) · Ranked 1st · GPA 17.30/20
+
+---
+
+## Teaching Experience
+
+**Python Instructor**
+
+Teaching Python from beginner to advanced through project-based courses, designing coding exercises, and building computational thinking skills in students of varying levels.
+
+---
+
+## Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,bash,git,linux,vscode"/>
-
 </p>
-
-### 🤖 Machine Learning & AI
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
-
 </p>
 
-### 🛠️ Other Tools
+<div align="center">
 
-- 📈 NetworkX
-- 📄 LaTeX
-- 📊 NumPy
-- 📉 Pandas
-- 🔬 SciPy
-- 🧪 Obsidian
+NetworkX · LaTeX · NumPy · Pandas · SciPy · Nilearn · Obsidian
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
-
-<details open>
-
-<summary><b>🧠 NeuroPHorm</b></summary>
-
-| | |
-|---|---|
-| 🎯 Purpose | Brain Network Analysis using Persistent Homology |
-| 🛠️ Stack | Python • TDA • NetworkX |
-| 📌 Status | Active Development |
-| 🌟 Focus | Neuroimaging Research |
-
-</details>
-
-<details>
-
-<summary><b>🧩 TDA Brain ASD Thesis</b></summary>
-
-| | |
-|---|---|
-| 🎓 Degree | MSc Thesis |
-| 🧠 Topic | Autism Brain Connectivity |
-| 🔬 Methods | Persistent Homology • Graph Theory |
-| 📊 Data | fMRI Brain Networks |
-
-</details>
-
-<details>
-
-<summary><b>🗣️ TOEFL Speaking Coach</b></summary>
-
-| | |
-|---|---|
-| 🎯 Goal | AI-powered Speaking Practice |
-| 🤖 Technology | LLM + Speech Learning |
-| 📚 Purpose | TOEFL Preparation |
-
-</details>
-
----
-
-# 🎓 Education
-
-## **M.Sc. — Statistical Physics & Complex Systems**
-**🏛️ Shahid Beheshti University** (2022–2025)
-
-🥈 Ranked **2nd** in class
-
-📈 GPA **18.5 / 20**
-
-### 📝 Thesis
-
-**Topological Analysis of Brain Networks in Autism Spectrum Disorder using Persistent Homology**
-
-### 📚 Academic Interests
-
-- 🧠 Computational Neuroscience
-- 🤖 Machine Learning
-- 🌐 Complex Systems
-- 🧩 Topological Data Analysis
-- 📊 Network Science
-
----
-
-# 👩‍🏫 Teaching Experience
-
-### 🐍 Python Instructor
-
-- 👩‍💻 Teaching Python from beginner to advanced
-- 🎮 Designing project-based programming courses
-- 📚 Creating educational coding games
-- 🧠 Developing computational thinking skills
-
----
-
-# 🌱 Current Focus
+## Current Focus
 
 ```yaml
 research:
-  - ADHD Brain Network Analysis
-  - Explainable AI
-  - Graph Representation Learning
+  - Topological data analysis of brain networks
+  - Explainable AI for neuroimaging
+  - Graph representation learning
 
 building:
   - NeuroPHorm
   - TOEFL Speaking Coach
 
-learning:
-  - SQL
-  - Claude Code
-  - AI Agents
-  - Robust Deep Learning
-
 open_to:
-  - PhD Positions
-  - Research Collaborations
+  - PhD positions
+  - Research collaborations
 ```
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -200,20 +178,18 @@ open_to:
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohiMozaffari&theme=dracula" width="48%" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohiMozaffari&theme=dracula" width="48%" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohiMozaffari&theme=dracula&utcOffset=1" width="48%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohiMozaffari&theme=dracula&utcOffset=3.5" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohiMozaffari&theme=dracula" width="48%" />
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+## Connect
 
 <p align="center">
 
@@ -225,13 +201,17 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-BD93F9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/mohimozaffari/">
+<img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://mohimozaffari.github.io">
 <img src="https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-</p>
-
 ---
+
+</p>
 
 <div align="center">
 
