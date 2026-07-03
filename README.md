@@ -19,65 +19,14 @@
 
 ---
 
-# About Me
+# 👋 About Me
 
 I'm a researcher working at the intersection of **computational neuroscience**, **topological data analysis**, and **machine learning**. My background is in Statistical Physics and Complex Systems (M.Sc., Shahid Beheshti University), and my current work focuses on analyzing brain network topology using persistent homology.
 
 Alongside research, I develop open-source scientific software and teach Python through project-based courses.
 
 ---
-
-# Research & Publications
-
-<div align="center">
-
-| Type | Title | Status |
-|---|---|---|
-| Journal manuscript | *Persistent Homology Reveals Topological Alterations in Resting-State Brain Networks of Autism Spectrum Disorder* — Network Neuroscience | Under review (NETNEURO-26-0075) |
-| Preprint | Coronary artery segmentation in X-ray angiography — [arXiv:2601.17429](https://arxiv.org/abs/2601.17429) | Jan 2026 |
-| Software | [NeuroPHorm](https://github.com/MohiMozaffari/NeuroPHorm) — Python toolkit for topological brain network analysis | DOI: [10.5281/zenodo.17542598](https://doi.org/10.5281/zenodo.17542598) |
-| M.Sc. Thesis | *Analysis of Topological Features of Brain Networks in Autism Spectrum Disorder Using Persistent Homology* | Outstanding, defended Mar 2025 |
-
-</div>
-
----
-
-# Research Interests
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Area</th>
-    <th>Topics</th>
-  </tr>
-  <tr>
-    <td>Computational Neuroscience</td>
-    <td>Brain Connectivity • fMRI • Network Science</td>
-  </tr>
-  <tr>
-    <td>Machine Learning</td>
-    <td>Explainable AI • Deep Learning • Pattern Recognition</td>
-  </tr>
-  <tr>
-    <td>Topological Data Analysis</td>
-    <td>Persistent Homology • Graph Topology</td>
-  </tr>
-  <tr>
-    <td>Complex Systems</td>
-    <td>Statistical Physics • Dynamical Networks</td>
-  </tr>
-  <tr>
-    <td>Scientific Computing</td>
-    <td>Python • Network Analysis • Data Science</td>
-  </tr>
-</table>
-
-</div>
-
----
-
-# Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -114,29 +63,57 @@ Alongside research, I develop open-source scientific software and teach Python t
 
 ---
 
-# Education
+# 📄 Research & Publications
 
-**M.Sc. — Statistical Physics & Complex Systems**
+<div align="center">
 
-Shahid Beheshti University (2022–2025) · Ranked 2nd · GPA 18.5/20
+| Type | Title | Status |
+|---|---|---|
+| Journal manuscript | *Persistent Homology Reveals Topological Alterations in Resting-State Brain Networks of Autism Spectrum Disorder* — Network Neuroscience | Under review (NETNEURO-26-0075) |
+| Preprint | Coronary artery segmentation in X-ray angiography — [arXiv:2601.17429](https://arxiv.org/abs/2601.17429) | Jan 2026 |
+| Software | [NeuroPHorm](https://github.com/MohiMozaffari/NeuroPHorm) — Python toolkit for topological brain network analysis | DOI: [10.5281/zenodo.17542598](https://doi.org/10.5281/zenodo.17542598) |
+| M.Sc. Thesis | *Analysis of Topological Features of Brain Networks in Autism Spectrum Disorder Using Persistent Homology* | Outstanding, defended Mar 2025 |
 
-Thesis: *Topological Analysis of Brain Networks in Autism Spectrum Disorder using Persistent Homology* — Outstanding
-
-**B.Sc. — Physics**
-
-Shahid Beheshti University (2018–2022) · Ranked 1st · GPA 17.30/20
-
----
-
-# Teaching Experience
-
-**Python Instructor**
-
-Teaching Python from beginner to advanced through project-based courses, designing coding exercises, and building computational thinking skills in students of varying levels.
+</div>
 
 ---
 
-# Tech Stack
+# 🔬 Research Interests
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Topics</th>
+  </tr>
+  <tr>
+    <td>Computational Neuroscience</td>
+    <td>Brain Connectivity • fMRI • Network Science</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Explainable AI • Deep Learning • Pattern Recognition</td>
+  </tr>
+  <tr>
+    <td>Topological Data Analysis</td>
+    <td>Persistent Homology • Graph Topology</td>
+  </tr>
+  <tr>
+    <td>Complex Systems</td>
+    <td>Statistical Physics • Dynamical Networks</td>
+  </tr>
+  <tr>
+    <td>Scientific Computing</td>
+    <td>Python • Network Analysis • Data Science</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,bash,git,linux,vscode"/>
@@ -157,27 +134,29 @@ Teaching Python from beginner to advanced through project-based courses, designi
 </div>
 
 ---
+# 🎓 Education
 
-# Current Focus
+**M.Sc. — Statistical Physics & Complex Systems**
 
-```yaml
-research:
-  - Topological data analysis of brain networks
-  - Explainable AI for neuroimaging
-  - Graph representation learning
+Shahid Beheshti University (2022–2025) · Ranked 2nd · GPA 18.5/20
 
-building:
-  - NeuroPHorm
-  - TOEFL Speaking Coach
+Thesis: *Topological Analysis of Brain Networks in Autism Spectrum Disorder using Persistent Homology* — Outstanding
 
-open_to:
-  - PhD positions
-  - Research collaborations
-```
+**B.Sc. — Physics**
+
+Shahid Beheshti University (2018–2022) · Ranked 1st · GPA 17.30/20
 
 ---
 
-# GitHub Analytics
+# 👩‍🏫 Teaching Experience
+
+**Python Instructor**
+
+Teaching Python from beginner to advanced through project-based courses, designing coding exercises, and building computational thinking skills in students of varying levels.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -197,32 +176,16 @@ open_to:
 
 ---
 
-# Connect
+# 🤝 Connect
 
 <p align="center">
-
-<a href="mailto:mohaddeseh.mozaffarii@gmail.com">
-<img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MohiMozaffari">
-<img src="https://img.shields.io/badge/GitHub-BD93F9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohimozaffari/">
-<img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://mohimozaffari.github.io">
-<img src="https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
----
-
+<a href="mailto:mohaddeseh.mozaffarii@gmail.com"><img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/MohiMozaffari"><img src="https://img.shields.io/badge/GitHub-BD93F9?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohimozaffari/"><img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://mohimozaffari.github.io"><img src="https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
+
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1F29,100:282A36&height=40&text=Thanks%20for%20visiting!&fontColor=BD93F9&fontSize=22"/>
-
 </div>
