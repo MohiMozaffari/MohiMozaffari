@@ -1,43 +1,34 @@
-<!-- Neural Academic Terminal Theme (Purple Cortex) -->
+# Mohaddeseh Mozaffari
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F17,100:111827&height=220&text=Mohaddeseh%20Mozaffari&fontSize=40&fontColor=7C5CFF" />
-</div>
+## AI & Neuroscience Researcher
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7C5CFF&center=true&width=700&lines=AI+%7C+Neuroscience+Researcher;Python+Instructor;fMRI+Brain+Networks;Machine+Learning+%2B+Complex+Systems" />
-</p>
-
-## IDENTITY
-- MSc in AI/Neuroscience research
-- Focus: Brain networks + interpretable AI
-- Location: Research mobility (Canada/Europe)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F17,100:111827&text=Mohaddeseh%20Mozaffari&fontColor=7C5CFF" />
 
 ## ABOUT
+AI & neuroscience researcher focused on brain networks, interpretable ML, and complex systems. Python instructor with teaching experience.
+
 ```bash
-role="AI & Neuroscience Researcher"
-stack="Python | ML | TDA | fMRI | SQL"
-open_to="PhD positions"
+role="AI Neuroscience"
+stack="Python ML TDA fMRI SQL"
+open_to="PhD"
 ```
+
+## LINKS
+Email: mohaddeseh.mozaffarii@gmail.com
+GitHub: https://github.com/MohiMozaffari
+Portfolio: https://mohimozaffari.github.io
 
 ## TECH STACK
 Python, SQL, PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, NetworkX
 
 ## PROJECTS
-- NeuroPHorm (Brain network analysis)
-- TDA Brain ASD Thesis
-- TOEFL Speaking Coach
+NeuroPHorm, TDA Brain ASD Thesis, TOEFL Speaking Coach
 
 ## EXPERIENCE
-Python Instructor: teaching, exercises design, game-based learning
+Python instructor, project-based teaching
 
-## CURRENT FOCUS
-PhD applications, SQL learning, LLM understanding, GitHub portfolio
-
-## CONNECT
-Email: mohaddeseh.mozaffarii@gmail.com
-GitHub: https://github.com/MohiMozaffari
-Portfolio: https://mohimozaffari.github.io
+## FOCUS
+PhD applications, SQL, LLM systems, research expansion
 
 ---
-Neural System Online
+Purple Cortex Theme
