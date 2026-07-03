@@ -1,11 +1,11 @@
-<!-- Neural Academic Terminal Theme -->
+<!-- Neural Academic Terminal Theme (Purple Cortex) -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F17,100:111827&height=220&text=Mohaddeseh%20Mozaffari&fontSize=40&fontColor=00D1FF" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F17,100:111827&height=220&text=Mohaddeseh%20Mozaffari&fontSize=40&fontColor=7C5CFF" />
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00D1FF&center=true&width=700&lines=AI+%7C+Neuroscience+Researcher;Python+Instructor;fMRI+Brain+Networks;Machine+Learning+%2B+Complex+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7C5CFF&center=true&width=700&lines=AI+%7C+Neuroscience+Researcher;Python+Instructor;fMRI+Brain+Networks;Machine+Learning+%2B+Complex+Systems" />
 </p>
 
 ## IDENTITY
